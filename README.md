@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Alírio Henrique 
 
-💻 Apaixonado por programação, estudando Análise e Desenvolvimento de Sistemas.  
+💻 Apaixonado por desafios, estudando Análise e Desenvolvimento de Sistemas.  
 🌟 Desenvolvendo projetos com **C# .NET Core MVC**, **JavaScript** e **SQL**.  
 🚀 Buscando me tornar um desenvolvedor Full Stack!
 
