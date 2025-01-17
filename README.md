@@ -19,5 +19,5 @@
 <div>
 <a href="https://github.com/AlirioHenrique">
 <img height="180em"  width="350em" src="https://github-readme-stats.vercel.app/api?username=AlirioHenrique&theme=tokyonight&show_icons=true&hide_border=false&count_private=true"/>
-<img height="180em" width ="370em" src="https://github-readme-streak-stats.herokuapp.com/?user=AlirioHenrique&theme=tokyonight&hide_border=false"/>
+
 </div>
