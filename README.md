@@ -1,8 +1,9 @@
 # 👋 Olá! Eu sou o Alírio Henrique 
 
-💻 Apaixonado por desafios, estudando Análise e Desenvolvimento de Sistemas.  
+💻 Sou movido por desafios, estudando Análise e Desenvolvimento de Sistemas.  
 🌟 Desenvolvendo projetos com **C# .NET Core MVC**, **JavaScript** e **SQL**.  
-🚀 Buscando me tornar um desenvolvedor Full Stack!
+🚀 Meu objetivo é me tornar um desenvolvedor Full Stack e aprimorar minhas habilidades constantemente.
+🎯 Atualmente, estou em busca de uma oportunidade de estágio na área de desenvolvimento para aplicar meus conhecimentos e crescer profissionalmente!
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Alirio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
